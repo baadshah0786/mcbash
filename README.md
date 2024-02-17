@@ -14,7 +14,7 @@ Just feed it with a server URL or IP, and let it check by itself.
 ```bash
 git clone https://github.com/dougy147/mcbash
 cd ./mcbash
-sudo make install
+sudo Makefile install
 ```
 
 ### Docker
